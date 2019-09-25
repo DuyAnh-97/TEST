@@ -16,3 +16,5 @@ fib(60)
 a = "Day la test"
 
 b = 123
+
+c = 1
